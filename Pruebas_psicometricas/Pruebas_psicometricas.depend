@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1712069655 source:c:\users\andy\documents\pruebas_psicometricas\src\persona.cpp
+	"Persona.h"
+	<iostream>
+	"Test.h"
+
+1712084663 c:\users\andy\documents\pruebas_psicometricas\include\persona.h
+	<string>
+	<vector>
+	"Test.h"
+
+1712036402 c:\users\andy\documents\pruebas_psicometricas\include\test.h
+	<string>
+
+1712069037 source:c:\users\andy\documents\pruebas_psicometricas\src\test.cpp
+	"Test.h"
+
+1712069531 source:c:\users\andy\documents\pruebas_psicometricas\src\test_complejo.cpp
+	<iostream>
+	"test_complejo.h"
+
+1712036341 c:\users\andy\documents\pruebas_psicometricas\include\test_complejo.h
+	"Test.h"
+
+1712069788 source:c:\users\andy\documents\pruebas_psicometricas\main.cpp
+	<iostream>
+	"Persona.h"
+	"Test.h"
+	"Test_simple.h"
+	"Test_complejo.h"
+
+1712069531 source:c:\users\andy\documents\pruebas_psicometricas\src\test_simple.cpp
+	<iostream>
+	"test_simple.h"
+
+1712036367 c:\users\andy\documents\pruebas_psicometricas\include\test_simple.h
+	"Test.h"
+
+1712023769 c:\users\andy\documents\pruebas_psicometricas\persona.h
+	<string>
+	<vector>
+	"Test.h"
+
+1712023319 c:\users\andy\documents\pruebas_psicometricas\test.h
+	<string>
+
